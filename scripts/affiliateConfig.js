@@ -2,13 +2,13 @@
 // アフィリエイト関連の設定とリンクをまとめた設定ファイル
 
 // Audible・Kindleアフィリエイト設定
-const affiliateTag = 'mnp_kasegu-22';
+const affiliateTag = 'konkatsu05-22';
 const audibleAffiliateEnabled = true;
 const kindleAffiliateEnabled = true;
 
 // アフィリエイト開示文に使用する名前（リポジトリ毎に変更可能）
 // この変数を変更することで、記事のアフィリエイト開示文に表示される名前を変更できます
-const associateName = 'MNPで稼ぐ📱 | 副業 | 不労所得 | ケーコジ | 端末転売 | フォロバ100';
+const associateName = '💕婚活の保健室｜ミサ | 彼氏 | 恋愛 | 男性 | 恋 | テクニック | 必勝法';
 
 // アフィリエイト設定をエクスポート
 export const affiliateConfig = {
